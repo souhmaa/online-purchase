@@ -5,8 +5,7 @@
     <artifactId>purchase-online</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
-    <name>java8-blog</name>
-    <url>http://maven.apache.org</url>
+    <name>Online Purchase</name>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
