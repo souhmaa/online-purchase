@@ -50,15 +50,15 @@ public class Item {
     }
 
     public Double getPrice() {
-        return product.getPrice();
+        return product == null ? null : product.getPrice();
     }
 
     public String getLabel() {
-        return product.getLabel();
+        return product == null ? null : product.getLabel();
     }
 
     public String getId() {
-        return product.getId();
+        return product == null ? null : product.getId();
     }
 
 
