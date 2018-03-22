@@ -4,4 +4,4 @@
 
 ### SET JAVA 8
 
-#### Run Test class `com.kata.purchase.CartServiceTest`
+### Run Test class `com.kata.purchase.CartTest`
